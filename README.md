@@ -1,3 +1,5 @@
+https://www.kaggle.com/datasets/borannogolder/procrastination-and-academic-performance/data
+
 [Survey on Procrastination and Academic Performance  (Responses) - Form Responses 1 - Survey on Procrastination and Academic Performance  (Responses) - Form Responses (1).csv](https://github.com/user-attachments/files/22452088/Survey.on.Procrastination.and.Academic.Performance.Responses.-.Form.Responses.1.-.Survey.on.Procrastination.and.Academic.Performance.Responses.-.Form.Responses.1.csv)
 Timestamp,study_year,socio-economic_background,assignment_delay_frequency,procrastination_reasons,assignment_submission_timing,last_minute_exam_preparation,effect_of_procrastination_on_grades,procrastination_and_grade_outcome,stress_due_to_procrastination,study_hours_per_week,cgpa,use_of_time_management,procrastination_management_training,procrastination_recovery_strategies,hours_spent_on_mobile_non_academic,study_session_distractions
 11/4/2024 9:39:00,Fourth Year,Middle,Always,"Lack of interest, Health issues",Never,Yes,Significantly,Yes,Significantly,0-5 hours,2.50 - 2.99,Always,Yes,Yes,1-2 hours,Sometimes
